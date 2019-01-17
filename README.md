@@ -1,4 +1,4 @@
-这是书籍《深度学习框架PyTorch：入门与实践》的对应代码，但是也可以作为一个独立的PyTorch入门指南和教程。
+This is the corresponding code for the book Deep Learning Framework PyTorch: Getting Started and Practice, but it can also be used as a stand-alone PyTorch Getting Started Guide and Tutorial.
 
 ## 更新说明
 已更新到**pytorch 0.4.1 (不是0.4.0)**
