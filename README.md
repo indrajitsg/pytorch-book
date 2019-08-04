@@ -1,7 +1,7 @@
 This is the corresponding code for the book Deep Learning Framework PyTorch: Getting Started and Practice, but it can also be used as a stand-alone PyTorch Getting Started Guide and Tutorial.
 
 ## Release Notes
-Updated to **PyTorch 1.0.1 (Not 0.4.0)**
+Updated to **PyTorch 1.1.0 (Not 0.4.0)**
 
 
 The current version of the code is based on pytorch 1.0.1, if you want to use the old version please `git checkout v0.2` or `git checkout v0.3`. Legacy code has better python2/python3 compatibility, CPU/GPU compatibility testing. The new version of the code has not been fully tested and has been tested under GPU and Python3. But in theory there should not be too many problems in python2 and CPU.
